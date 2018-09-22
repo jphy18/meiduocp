@@ -1,0 +1,1 @@
+var host = 'http://api.ywh18.cn:8000';
